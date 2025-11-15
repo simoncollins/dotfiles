@@ -3,6 +3,7 @@
 go = "1.24"
 node = "25"
 "ubi:ArjenSchwarz/rune" = "latest"
+"ubi:dandavison/delta" = "latest"
 "ubi:sharkdp/bat" = "latest"
 "ubi:sharkdp/fd" = "latest"
 "ubi:sxyazi/yazi" = "latest"
