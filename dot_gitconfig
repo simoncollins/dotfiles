@@ -1,2 +1,7 @@
 [include]
+	path = ~/.config/git/.gitconfig 
         path = ~/.config/delta/config
+[init]
+	defaultBranch = master
+[core]
+	autocrlf = input
