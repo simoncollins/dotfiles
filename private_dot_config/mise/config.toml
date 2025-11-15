@@ -1,0 +1,9 @@
+[tools]
+"github:BurntSushi/ripgrep" = "latest"
+go = "1.24"
+node = "25"
+"ubi:ArjenSchwarz/rune" = "latest"
+"ubi:sharkdp/bat" = "latest"
+"ubi:sharkdp/fd" = "latest"
+"ubi:sxyazi/yazi" = "latest"
+"ubi:twpayne/chezmoi" = "latest"
