@@ -1,0 +1,40 @@
+# Get editor completions based on the config schema
+"$schema" = 'https://starship.rs/config-schema.json'
+
+# Simple format: dir [git] [lang] $
+format = "$directory$git_branch$nodejs$golang$rust$python$java$character"
+
+[directory]
+style = "blue"
+
+[git_branch]
+format = " [$branch]($style)"
+style = "purple"
+
+[git_status]
+format = ' [$all_status$ahead_behind]($style) '
+
+[nodejs]
+format = " [$symbol($version )]($style)"
+style = "green"
+
+[golang]
+format = " [$symbol($version )]($style)"
+style = "cyan"
+
+[rust]
+format = " [$symbol($version )]($style)"
+style = "red"
+
+[python]
+format = " [$symbol($version )]($style)"
+style = "yellow"
+
+[java]
+format = " [$symbol($version )]($style)"
+style = "orange"
+
+[character]
+success_symbol = "[❯](bold green)"
+error_symbol = "[❯](bold red)"
+

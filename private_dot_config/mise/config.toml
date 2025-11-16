@@ -23,6 +23,8 @@ node = "25"
 "ubi:sharkdp/fd" = "latest"
 # miniserve: simple HTTP server for serving files
 "ubi:svenstaro/miniserve" = "latest"
+# starship: infinitely customisable shell prompt
+"ubi:starship/starship" = "latest"
 # yazi: terminal file manager
 "ubi:sxyazi/yazi" = "latest"
 # chezmoi: dotfile manager
