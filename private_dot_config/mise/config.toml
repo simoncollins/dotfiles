@@ -3,12 +3,22 @@
 eza = "latest"
 # rg: fast search tool, like grep but better for code
 "github:BurntSushi/ripgrep" = "latest"
+# nushell: relational shell
+"github:nushell/nushell" = "latest"
 # go: Go programming language runtime
 go = "1.24"
 # node: Node.js JavaScript runtime
 node = "25"
 # rune: task management for coding agents
 "ubi:ArjenSchwarz/rune" = "latest"
+# dust: a modern replacement for du
+"ubi:bootandy/dust" = "latest"
+# just: command line runner
+"ubi:casey/just" = "latest"
+# sd: a modern alternative to sed
+"ubi:chmln/sd" = "latest"
+# procs: a modern replacement for ps
+"ubi:dalance/procs" = "latest"
 # delta: git diff viewer with syntax highlighting
 "ubi:dandavison/delta" = "latest"
 # xh: HTTP client, like curl but with better defaults
@@ -17,6 +27,10 @@ node = "25"
 "ubi:jesseduffield/lazygit" = "latest"
 # lazydocker: terminal Docker UI
 "ubi:jesseduffield/lazydocker" = "latest"
+# gping: modern replacement for ping
+"ubi:orf/gping" = "latest"
+# grex: generates regular expressions from user provided test cases
+"ubi:pemistahl/grex" = "latest"
 # bat: modern cat with syntax highlighting
 "ubi:sharkdp/bat" = "latest"
 # fd: fast file finder, like find but easier
@@ -25,7 +39,11 @@ node = "25"
 "ubi:svenstaro/miniserve" = "latest"
 # starship: infinitely customisable shell prompt
 "ubi:starship/starship" = "latest"
+# dasel: like jq for JSON, CSV, TOML and YAML
+"ubi:TomWright/dasel" = "latest"
 # yazi: terminal file manager
 "ubi:sxyazi/yazi" = "latest"
 # chezmoi: dotfile manager
 "ubi:twpayne/chezmoi" = "latest"
+# tokei: count lines of code across different languages
+"ubi:XAMPPRocky/tokei" = "latest"
