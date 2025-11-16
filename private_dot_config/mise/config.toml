@@ -1,10 +1,29 @@
 [tools]
+# eza: modern replacement for ls with colors and icons
+eza = "latest"
+# rg: fast search tool, like grep but better for code
 "github:BurntSushi/ripgrep" = "latest"
+# go: Go programming language runtime
 go = "1.24"
+# node: Node.js JavaScript runtime
 node = "25"
+# rune: task management for coding agents
 "ubi:ArjenSchwarz/rune" = "latest"
+# delta: git diff viewer with syntax highlighting
 "ubi:dandavison/delta" = "latest"
+# xh: HTTP client, like curl but with better defaults
+"ubi:ducaale/xh" = "latest"
+# lazygit: terminal git UI
+"ubi:jesseduffield/lazygit" = "latest"
+# lazydocker: terminal Docker UI
+"ubi:jesseduffield/lazydocker" = "latest"
+# bat: modern cat with syntax highlighting
 "ubi:sharkdp/bat" = "latest"
+# fd: fast file finder, like find but easier
 "ubi:sharkdp/fd" = "latest"
+# miniserve: simple HTTP server for serving files
+"ubi:svenstaro/miniserve" = "latest"
+# yazi: terminal file manager
 "ubi:sxyazi/yazi" = "latest"
+# chezmoi: dotfile manager
 "ubi:twpayne/chezmoi" = "latest"
