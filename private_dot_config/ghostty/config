@@ -1,4 +1,4 @@
-keybind = global:ctrl+backquote=toggle_quick_terminal
+keybind = global:cmd+backquote=toggle_quick_terminal
 theme = Challenger Deep 
 
 
