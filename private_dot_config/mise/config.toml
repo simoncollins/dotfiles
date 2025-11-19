@@ -1,4 +1,6 @@
 [tools]
+# bun: javascript runtime, bundler and package manager
+bun = "latest"
 # eza: modern replacement for ls with colors and icons
 eza = "latest"
 # rg: fast search tool, like grep but better for code
