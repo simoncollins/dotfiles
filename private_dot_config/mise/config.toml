@@ -11,6 +11,8 @@ eza = "latest"
 go = "1.24"
 # node: Node.js JavaScript runtime
 node = "25"
+# claude: agentic coding tool
+"npm:@anthropic-ai/claude-code" = "latest"
 # rune: task management for coding agents
 "ubi:ArjenSchwarz/rune" = "latest"
 # dust: a modern replacement for du
