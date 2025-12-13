@@ -21,6 +21,8 @@ node = "25"
 "ubi:casey/just" = "latest"
 # sd: a modern alternative to sed
 "ubi:chmln/sd" = "latest"
+# gh: Github CLI
+"github:cli/cli" = "latest"
 # procs: a modern replacement for ps
 "ubi:dalance/procs" = "latest"
 # delta: git diff viewer with syntax highlighting
@@ -39,6 +41,8 @@ node = "25"
 "ubi:sharkdp/bat" = "latest"
 # fd: fast file finder, like find but easier
 "ubi:sharkdp/fd" = "latest"
+# mcp-devtools: developer dev tools MCP server
+"ubi:sammcj/mcp-devtools" = "latest"
 # miniserve: simple HTTP server for serving files
 "ubi:svenstaro/miniserve" = "latest"
 # starship: infinitely customisable shell prompt
