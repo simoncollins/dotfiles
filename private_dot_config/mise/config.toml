@@ -55,3 +55,9 @@ node = "25"
 "ubi:twpayne/chezmoi" = "latest"
 # tokei: count lines of code across different languages
 "ubi:XAMPPRocky/tokei" = "latest"
+# pandoc: universal markup converter
+"ubi:jgm/pandoc" = "latest"
+# typst: markup based typesetting system
+"ubi:typst/typst" = "latest"
+# tmux: terminal multiplexer
+"tmux" = "latest"
