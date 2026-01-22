@@ -1,4 +1,4 @@
 keybind = global:cmd+backquote=toggle_quick_terminal
 theme = Challenger Deep 
 
-
+keybind = shift+enter=text:\x1b\r
