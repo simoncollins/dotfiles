@@ -61,3 +61,5 @@ node = "25"
 "ubi:typst/typst" = "latest"
 # tmux: terminal multiplexer
 "tmux" = "latest"
+# lefthook: git hook manager
+"ubi:evilmartians/lefthook" = "latest"
