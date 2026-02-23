@@ -63,3 +63,7 @@ node = "25"
 "tmux" = "latest"
 # lefthook: git hook manager
 "ubi:evilmartians/lefthook" = "latest"
+# ferrules: text extraction tool
+"ubi:aminediro/ferrules" = "latest"
+# proxify: mitm proxy
+"ubi:projectdiscovery/proxify" = "latest"
