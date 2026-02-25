@@ -1,4 +1,6 @@
 [tools]
+# rust: programming language and toolbelt
+rust = "latest"
 # bun: javascript runtime, bundler and package manager
 bun = "latest"
 # eza: modern replacement for ls with colors and icons
@@ -67,3 +69,5 @@ node = "25"
 "ubi:aminediro/ferrules" = "latest"
 # proxify: mitm proxy
 "ubi:projectdiscovery/proxify" = "latest"
+# pulumi: IIAC tool
+"ubi:pulumi/pulumi" = "latest"
